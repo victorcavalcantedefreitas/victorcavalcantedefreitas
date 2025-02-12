@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Victor! 🚀  
+I'm a trainee developer passionate about technology.  
 
-<!--
-**victorcavalcantedefreitas/victorcavalcantedefreitas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 About Me  
+- 🔥 Currently a **Java and Kotlin trainee**  
+- 🚀 Exploring the world of **backend and mobile development**  
+- 📚 Always learning and improving my skills  
 
-Here are some ideas to get you started:
+## 🚀 Technologies I Use  
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HeyVictor&layout=compact&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HeyVictor&show_icons=true&theme=dark)  
+
+## 🌟 Featured Projects  
+- [My Portfolio] soon
+
+Let's connect and build something amazing! 🚀🔥  
